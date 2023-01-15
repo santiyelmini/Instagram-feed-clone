@@ -1,4 +1,5 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 * {
     margin: 0;
@@ -14,6 +15,7 @@ body {
     grid-template-areas: 
     "sidebar feed";
     grid-template-rows: auto;
+    font-family: 'Lato', sans-serif;
     @media screen and (max-width: 768px) {
         grid-template-areas: 
         "mobileheader"
