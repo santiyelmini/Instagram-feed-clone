@@ -68,7 +68,8 @@ body {
       body .mobile-header .right .fa-heart {
         color: #FAFAFA;
         font-size: 22px;
-        margin-left: 20px; }
+        margin-left: 20px;
+        cursor: pointer; }
   body aside {
     grid-area: sidebar;
     height: 100vh;
