@@ -50,7 +50,8 @@ body {
           padding-left: 10px; }
         body .mobile-header .right .search-container .fa-circle-xmark {
           display: none;
-          color: #C8C8C8; }
+          color: #C8C8C8;
+          margin-right: 5px; }
         body .mobile-header .right .search-container .search-input {
           border: none;
           background-color: transparent;
